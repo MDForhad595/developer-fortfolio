@@ -36,3 +36,33 @@ h1{
     background-position: right;
 
 }
+.work-aria{
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.work-site{
+    font-weight: 400;
+}
+.full-stack{
+    width: 50%;
+    margin: 5%;
+    box-shadow: 10px 10px 40px grey;
+    padding: 10px;
+    border-radius: 15px;
+}
+#buttom{
+    border-left: 7px solid;
+    border-image:  linear-gradient(#0009ff, #00d9ff);
+    border-image-slice: 1;
+}
+#top{
+    border-left: 7px solid;
+    border-image:  linear-gradient(#f34404, #21c05ede);
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
+}
